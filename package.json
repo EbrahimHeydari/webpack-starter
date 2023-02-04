@@ -1,7 +1,7 @@
 {
   "name": "webpack-starter",
   "version": "1.0.0",
-  "description": "learning webpack v5",
+  "description": "learning webpack v5 with brad traversy",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
